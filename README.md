@@ -1,4 +1,4 @@
-# ReHLDS Server Base Pack
+# ReHLDS Server
 
 Base pack for Counter-Strike 1.6 servers with latest AMX Mod X, ReHLDS, ReGameDLL, Reunion and more!
 
